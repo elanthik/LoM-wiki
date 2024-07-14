@@ -167,3 +167,45 @@ tags:
 網站反應變更約需 1~3 分鐘的作業時間。
 
 到此土法煉鋼的本地編輯完成。
+
+### Pull request 提交申請方法
+1. 進入pull request 頁面
+![](/images/develop/1-start/pull_request_page.png)
+2. 選擇正確的branch
+![](/images/develop/1-start/click_compare.png)
+3. 確認修改內容、填寫pull request 訊息
+![](/images/develop/1-start/create_pull_request.png)
+4. 選擇協助Pull Request人員，並填寫Pull Request的簡述，好讓我們更容易了解變更內容。  
+Asignee代表這應該指派給誰來看，  
+以後若有其他願意協助審核者也可以加入列表，以加速審核。  
+<table>
+    <tr>
+        <td>
+            可審核人
+        </td>
+        <td>
+            稱謂
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mr.Smilin
+        </td>
+        <td>
+            Project Owner
+        </td>
+    </tr>
+    <tr>
+        <td>
+            pon50895
+        </td>
+        <td>
+            Contributor
+        </td>
+    </tr>
+</table>
+
+![](/images/develop/1-start/fulfill_pull_request.png)
+5. 等待Pull Request審核。
+6. 審核通過後，會自動更新頁面，若正常情況下，  
+可以在[活俠傳Wiki](https://smilin.net/LoM-wiki/)中看見變更。
