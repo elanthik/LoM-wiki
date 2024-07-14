@@ -57,14 +57,29 @@ tags:
 -   更新文檔的操作不需要經過驗證
 -   可以驗證來自非協作者的提交
 
-## 第三步 - 編輯文檔
+## 第三步 - fork 專案
+請登入您的github後,  
+到[活俠傳Wiki](https://github.com/Mr-Smilin/LoM-wiki)  
+按右上角的 `Fork` 按鈕，  
+將專案複製到您的帳戶下。
+
+後續您的更新都會在您的帳戶下進行，  
+您可以透過 `Pull Request` 的方式，將您的更新提交給專案管理者。
+
+![](/images/develop/1-start/click_to_fork.png)
+
+
+## 第四步 - 編輯文檔
+
+進入您的專案中
+![](/images/develop/1-start/click_to_private_repository.png)
 
 ::: info 💡 歡迎補充
 編輯文檔有很多方式，可能有缺漏，歡迎在留言處提供。
 :::
 
 ::: warning 💡 注意
-跳過第二點的話，編輯文檔的提交需要等待審查
+跳過第二步的話，編輯文檔的提交需要等待審查
 :::
 
 ### 在 Github 中直接編輯
