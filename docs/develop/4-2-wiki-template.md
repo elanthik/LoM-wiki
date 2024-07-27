@@ -566,14 +566,28 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 ## 結局組件
 ```markdown
 <EndBackground no=8 title="被煮的狗">
-兔死狗烹，你這走狗已經沒有用了．用張<br>
-大餅就能騙得你團團轉，可真划算．<br>
+兔死狗烹，你這走狗已經沒有用了。用張<br>
+大餅就能騙得你團團轉，可真划算。<br>
 </EndBackground>
 ```
 
 <EndBackground no=8 title="被煮的狗">
 兔死狗烹，你這走狗已經沒有用了．用張<br>
 大餅就能騙得你團團轉，可真划算．
+</EndBackground>
+
+```markdown
+<EndBackground no=0 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
+</EndBackground>
+```
+
+<EndBackground no=-1 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
 </EndBackground>
 
 ### 可用屬性寫法
